@@ -1,0 +1,129 @@
+id: I4C4BB8DC
+source: https://library.bdrc.io
+source_file: null
+initial_creation_type: ocr
+imported: '2020-03-25T22:01:03+00:00'
+last_modified: '2022-06-08T13:28:05.815616+00:00'
+parser: https://github.com/OpenPecha-dev/openpecha-toolkit/blob/231bba39dd1ba393320de82d4d08a604aabe80fc/openpecha/formatters/google_orc.py
+source_metadata:
+  id: bdr:W1PD152291
+  title: དཔལ་ལྡན་ས་སྐྱ་པའི་གསུང་རབ་གྲགས་ཆེན་བཅོ་བརྒྱད།
+  author: ''
+  access: http://purl.bdrc.io/admindata/AccessOpen
+  restrictedInChina: false
+  base:
+    9A43:
+      image_group_id: I2PD18407
+      title: ''
+      total_pages: 546
+      order: 1
+      base_file: 9A43.txt
+    8A09:
+      image_group_id: I2PD18408
+      title: ''
+      total_pages: 574
+      order: 2
+      base_file: 8A09.txt
+    840C:
+      image_group_id: I2PD18409
+      title: ''
+      total_pages: 298
+      order: 3
+      base_file: 840C.txt
+    E714:
+      image_group_id: I2PD18410
+      title: ''
+      total_pages: 334
+      order: 4
+      base_file: E714.txt
+    9C2A:
+      image_group_id: I2PD18411
+      title: ''
+      total_pages: 662
+      order: 5
+      base_file: 9C2A.txt
+    59EC:
+      image_group_id: I2PD18412
+      title: ''
+      total_pages: 508
+      order: 6
+      base_file: 59EC.txt
+    '2602':
+      image_group_id: I2PD18413
+      title: ''
+      total_pages: 676
+      order: 7
+      base_file: 2602.txt
+    5C13:
+      image_group_id: I2PD18414
+      title: ''
+      total_pages: 804
+      order: 8
+      base_file: 5C13.txt
+    D476:
+      image_group_id: I2PD18415
+      title: ''
+      total_pages: 586
+      order: 9
+      base_file: D476.txt
+    806B:
+      image_group_id: I2PD18416
+      title: ''
+      total_pages: 306
+      order: 10
+      base_file: 806B.txt
+    BA1C:
+      image_group_id: I2PD18417
+      title: ''
+      total_pages: 338
+      order: 11
+      base_file: BA1C.txt
+    BA5B:
+      image_group_id: I2PD18418
+      title: ''
+      total_pages: 348
+      order: 12
+      base_file: BA5B.txt
+    BFC5:
+      image_group_id: I2PD18419
+      title: ''
+      total_pages: 232
+      order: 13
+      base_file: BFC5.txt
+    17C1:
+      image_group_id: I2PD18420
+      title: ''
+      total_pages: 350
+      order: 14
+      base_file: 17C1.txt
+    DBB6:
+      image_group_id: I2PD18421
+      title: ''
+      total_pages: 334
+      order: 15
+      base_file: DBB6.txt
+    '4484':
+      image_group_id: I2PD18422
+      title: ''
+      total_pages: 316
+      order: 16
+      base_file: 4484.txt
+    B3B1:
+      image_group_id: I2PD18423
+      title: ''
+      total_pages: 554
+      order: 17
+      base_file: B3B1.txt
+    48D6:
+      image_group_id: I2PD18424
+      title: ''
+      total_pages: 498
+      order: 18
+      base_file: 48D6.txt
+statistics: {}
+quality: {}
+copyright:
+  status: Unknown
+  notice: ''
+  info_url: null
+license: null
